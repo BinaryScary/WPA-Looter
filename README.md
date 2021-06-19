@@ -13,7 +13,7 @@ ESSID-Example1    1A:35:70:23:9F:07
 ESSID-Example2    1A:35:70:23:9F:08
 ESSID-Example3    1A:35:70:23:9F:09
 
-[-] Access points with PMKID retreived from association packets (Handshake Message One)
+[-] Access points with PMKIDs retrieved from association packets (Handshake Message One)
 ESSID-Example1    1A:35:70:23:9F:07
 ESSID-Example2    1A:35:70:23:9F:08
 ESSID-Example3    1A:35:70:23:9F:09
